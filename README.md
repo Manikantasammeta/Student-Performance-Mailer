@@ -25,8 +25,7 @@ This Django-based web app automates student performance tracking and sends email
 3. Run the Django server: `python manage.py runserver`
 4. Open browser and go to: `http://127.0.0.1:8000/`
 
-## 📎 Note
-This is a self-built academic project for automating training performance reports.
+
 
 ---
 💡 Developed with ❤️ by Mani
